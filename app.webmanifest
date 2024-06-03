@@ -1,6 +1,7 @@
 {
     "name": "Quote Typing Game",
     "short_name": "Typing Game",
+    "description": "A Progressive Web App version of Quote Typing Game",
     "start_url": "/",
     "orientation": "portrait",
     "theme_color": "#560bd8",
