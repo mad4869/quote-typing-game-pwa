@@ -8,6 +8,22 @@
     "background_color": "#ffffff",
     "scope": "/",
     "display": "standalone",
+    "screenshots": [
+        {
+            "src": "/ss-wide.png",
+            "sizes": "1919x950",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Landing Page Desktop"
+        },
+        {
+            "src": "/ss-narrow.png",
+            "sizes": "582x888",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Landing Page Mobile"
+        }
+    ],
     "icons": [
         {
             "src": "/icon-512.png",
