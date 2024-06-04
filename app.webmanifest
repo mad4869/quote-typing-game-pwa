@@ -2,22 +2,22 @@
     "name": "Quote Typing Game",
     "short_name": "Typing Game",
     "description": "A Progressive Web App version of Quote Typing Game",
-    "start_url": "/",
+    "start_url": "https://quote-typing-game.vercel.app/",
     "orientation": "portrait",
     "theme_color": "#560bd8",
     "background_color": "#ffffff",
-    "scope": "/",
+    "scope": "https://quote-typing-game.vercel.app/",
     "display": "standalone",
     "screenshots": [
         {
-            "src": "/ss-wide.png",
+            "src": "https://quote-typing-game.vercel.app/ss-wide.png",
             "sizes": "1919x950",
             "type": "image/png",
             "form_factor": "wide",
             "label": "Landing Page Desktop"
         },
         {
-            "src": "/ss-narrow.png",
+            "src": "https://quote-typing-game.vercel.app/ss-narrow.png",
             "sizes": "582x888",
             "type": "image/png",
             "form_factor": "narrow",
@@ -26,17 +26,17 @@
     ],
     "icons": [
         {
-            "src": "/icon-512.png",
+            "src": "https://quote-typing-game.vercel.app/icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "/icon-1024.png",
+            "src": "https://quote-typing-game.vercel.app/icon-1024.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "/icon-512-maskable.png",
+            "src": "https://quote-typing-game.vercel.app/icon-512-maskable.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
